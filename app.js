@@ -66,27 +66,28 @@
 // 7-masala
 
 // let N = 20
-// let K = 7
+// let K = 18
 
-// let qoldiq = N
 // let butun = 0
+// let qoldiq = N
 
-// while (qoldiq >= K) {
+// for (let i = 0; qoldiq >= K; i++  ) {
 //     qoldiq -= K
-//     butun += 1
+//     butun += 1;
 // }
 
-// console.log(`butun ${butun} qismi, qoldiq ${qoldiq} qismi`)
+// console.log(`butun qismi, ${butun}`)
+// console.log(`qoldiq ${qoldiq} qismi`)
 
 // 8-masala
 
 // let daraja = 7;
-// let i = 2;
 
-// while (i <= 2) {
+
+//  for(let i =2; i <= 2;  i++ ) {
 //     let result = Math.pow(2, daraja);
 //     console.log( result);
-//     i++;    
+      
 // }
 
 
